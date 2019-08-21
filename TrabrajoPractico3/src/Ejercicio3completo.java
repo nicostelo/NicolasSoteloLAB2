@@ -21,13 +21,7 @@ public class Ejercicio3 {
                 matriz[i][j] = dni;
                 matriz[i][j] = edad;
 
-                matriz[i][j] = nombre;
-                matriz[i][j] = dni;
-                matriz[i][j] = edad;
-
-                matriz[i][j] = nombre;
-                matriz[i][j] = dni;
-                matriz[i][j] = edad;
+                
 
             }
         }
